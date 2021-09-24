@@ -1,0 +1,4 @@
+
+int EncenderSensor();
+int ApagarSensor();
+
